@@ -1,0 +1,24 @@
+Applications
+Incompatible Software
+Library
+Network
+Podrczniki u|ytkownika i informacje
+System
+Users
+Volumes
+Wszystkie
+bin
+cores
+dev
+etc
+home
+installer.failurerequests
+libpeerconnection.log
+lost+found
+net
+openvpn.log
+private
+sbin
+tmp
+usr
+var
